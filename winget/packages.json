@@ -1,0 +1,129 @@
+{
+  "$schema": "https://aka.ms/winget-packages.schema.2.0.json",
+  "Sources": [
+    {
+      "Packages": [
+        {
+          "PackageIdentifier": "JGraph.Draw"
+        },
+        {
+          "PackageIdentifier": "7zip.7zip"
+        },
+        {
+          "PackageIdentifier": "ShareX.ShareX"
+        },
+        {
+          "PackageIdentifier": "Altap.Salamander"
+        },
+        {
+          "PackageIdentifier": "Git.Git"
+        },
+        {
+          "PackageIdentifier": "REALiX.HWiNFO"
+        },
+        {
+          "PackageIdentifier": "KeeWeb.KeeWeb"
+        },
+        {
+          "PackageIdentifier": "Microsoft.AzureCLI"
+        },
+        {
+          "PackageIdentifier": "dotPDN.PaintDotNet"
+        },
+        {
+          "PackageIdentifier": "Zoom.Zoom"
+        },
+        {
+          "PackageIdentifier": "Amazon.Corretto.17.JDK"
+        },
+        {
+          "PackageIdentifier": "JohnMacFarlane.Pandoc"
+        },
+        {
+          "PackageIdentifier": "Amazon.AWSCLI"
+        },
+        {
+          "PackageIdentifier": "Microsoft.PowerToys"
+        },
+        {
+          "PackageIdentifier": "Poly.PolyLens"
+        },
+        {
+          "PackageIdentifier": "JanDeDobbeleer.OhMyPosh"
+        },
+        {
+          "PackageIdentifier": "EclipseAdoptium.Temurin.20.JRE"
+        },
+        {
+          "PackageIdentifier": "OpenJS.NodeJS.22"
+        },
+        {
+          "PackageIdentifier": "KeePassXCTeam.KeePassXC"
+        },
+        {
+          "PackageIdentifier": "Amazon.SAM-CLI"
+        },
+        {
+          "PackageIdentifier": "Klocman.BulkCrapUninstaller"
+        },
+        {
+          "PackageIdentifier": "BleachBit.BleachBit"
+        },
+        {
+          "PackageIdentifier": "GnuCash.GnuCash"
+        },
+        {
+          "PackageIdentifier": "Graphviz.Graphviz"
+        },
+        {
+          "PackageIdentifier": "Insecure.Nmap"
+        },
+        {
+          "PackageIdentifier": "Lenovo.SystemUpdate"
+        },
+        {
+          "PackageIdentifier": "Amazon.SessionManagerPlugin"
+        },
+        {
+          "PackageIdentifier": "Intel.IntelDriverAndSupportAssistant"
+        },
+        {
+          "PackageIdentifier": "MoonlightGameStreamingProject.Moonlight"
+        },
+        {
+          "PackageIdentifier": "Freelensapp.Freelens"
+        },
+        {
+          "PackageIdentifier": "FluxCD.Flux"
+        },
+        {
+          "PackageIdentifier": "Obsidian.Obsidian"
+        },
+        {
+          "PackageIdentifier": "direnv.direnv"
+        },
+        {
+          "PackageIdentifier": "reMarkable.reMarkableCompanionApp"
+        },
+        {
+          "PackageIdentifier": "Lenovo.ServiceBridge"
+        },
+        {
+          "PackageIdentifier": "Python.Python.3.13"
+        },
+        {
+          "PackageIdentifier": "Microsoft.VisualStudioCode"
+        },
+        {
+          "PackageIdentifier": "Amazon.Kiro"
+        },
+        {
+          "PackageIdentifier": "Canonical.Ubuntu.2204"
+        },
+        {
+          "PackageIdentifier": "Microsoft.WSL"
+        }
+      ]
+    }
+  ]
+}
