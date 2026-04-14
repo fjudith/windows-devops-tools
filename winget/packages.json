@@ -122,6 +122,9 @@
         },
         {
           "PackageIdentifier": "Microsoft.WSL"
+        },
+        {
+          "PackageIdentifier": "int128.kubelogin"
         }
       ]
     }
